@@ -1,0 +1,23 @@
+{
+  "name": "teste-ebac-iu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriapilon/teste-ebac-iu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriapilon/teste-ebac-iu/issues"
+  },
+  "homepage": "https://github.com/vitoriapilon/teste-ebac-iu#readme",
+  "dependencies": {
+    "cypress": "^13.6.0"
+  }
+}
